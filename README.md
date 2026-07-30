@@ -1,77 +1,81 @@
 <div align="center">
 
-# Hi, I'm Karthik R S 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Karthik%20R%20S&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=Computer%20Science%20(AI)%20|%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
 
-### Computer Science (AI) Student • Software Developer • Machine Learning Enthusiast
-
-Building practical software, AI applications, and backend systems with a focus on clean engineering and real-world problem solving.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems.;Backend+%E2%80%A2+AI+Applications+%E2%80%A2+Machine+Learning.;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
 </p>
 
 </div>
 
 ---
 
-## About
+# 👋 About Me
 
-I'm a Computer Science (AI) student passionate about building software that solves real problems.
+```text
+Karthik R S
 
-My interests span backend development, machine learning, databases, and AI-powered applications. I enjoy taking projects from an idea to a working product while continuously learning better software engineering practices.
+Computer Science (AI) Student
+
+Interested in building backend systems,
+AI-powered applications,
+and software that solves practical problems.
 
 Currently exploring:
-
-- AI-assisted applications
-- Backend engineering
-- Machine Learning
-- PostgreSQL & Databases
-- FastAPI
-- System Design
+• FastAPI
+• PostgreSQL
+• Machine Learning
+• System Design
+• Full Stack Development
+```
 
 ---
 
-## Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
-`Python` • `Java` • `C` • `JavaScript` • `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql"/>
+</p>
 
-### Frameworks & Libraries
+### Frameworks
 
-`FastAPI` • `React` • `Node.js` • `Express`
-
-`TensorFlow` • `scikit-learn` • `OpenCV` • `Pandas` • `NumPy`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi"/>
+</p>
 
 ### Databases
 
-`PostgreSQL` • `MongoDB`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
 
 ### Tools
 
-`Git` • `GitHub` • `Linux` • `Docker`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+</p>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-### AI Database Retriever
+### 🔹 AI Database Retriever
 
-Natural language interface for querying structured enterprise databases.
+Natural language interface that converts user questions into SQL queries for structured enterprise databases.
 
-**Highlights**
+**Tech**
 
-- Natural language → SQL
-- FastAPI backend
-- PostgreSQL integration
-- Prompt engineering
-- Query validation
+Python • FastAPI • PostgreSQL
 
 ---
 
-### Scholaroid
+### 🔹 Scholaroid
 
-Educational platform designed to make learning more interactive using AI-assisted features.
+An educational platform designed to enhance learning using AI-assisted features and interactive content.
 
 **Tech**
 
@@ -79,9 +83,9 @@ React • Node.js • MongoDB
 
 ---
 
-### Speech Emotion Recognition
+### 🔹 Speech Emotion Recognition
 
-Deep learning model for emotion classification from speech audio.
+Deep learning model for classifying emotions from speech audio.
 
 **Tech**
 
@@ -89,7 +93,7 @@ TensorFlow • Python
 
 ---
 
-### Antibiotic Resistance Prediction
+### 🔹 Antibiotic Resistance Prediction
 
 Machine learning models for predicting antibiotic resistance using genomic datasets.
 
@@ -99,7 +103,7 @@ Python • scikit-learn
 
 ---
 
-## GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -111,28 +115,59 @@ Python • scikit-learn
 
 ---
 
-## Current Focus
+<div align="center">
 
-- Building AI-powered software
-- Learning scalable backend systems
-- Improving problem solving & DSA
-- Exploring system design
-- Open Source
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## Connect
+# 📊 Contribution Graph
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- Building AI-powered applications
+- Backend engineering
+- Machine Learning
+- PostgreSQL
+- System Design
+- Problem Solving
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*"Good software comes from solving real problems, not chasing trends."*
+> *"Build things people actually use."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
